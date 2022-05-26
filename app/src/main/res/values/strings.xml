@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PropertyManagementApplication</string>
+    <string name="app_name">HouseRent Manage</string>
 
     <array name="properties">
         <item>Detached</item>
